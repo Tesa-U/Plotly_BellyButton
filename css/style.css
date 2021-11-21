@@ -4,3 +4,14 @@
     text-shadow: embedded;
     text-align: center;
 }
+body {
+    background: linear-gradient(to left top, rgb(150, 187, 184), rgb(40, 119, 129));
+    color: #000000;
+}
+
+.panel-body {
+    background:rgb(110, 138, 129);}
+    /* Change Text Color of Selected Option in a Select Box */
+select {
+    color: rgb(228, 52, 29); 
+}

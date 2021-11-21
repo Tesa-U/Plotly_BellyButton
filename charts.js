@@ -117,7 +117,7 @@ function buildCharts(sample) {
             margin: { t: 0 },
             hovermode: "closest",
             xaxis: { title: "OTU ID" },
-            margin: { t: 30 }
+            margin: { t: 40 }
 
         };
 
@@ -152,7 +152,7 @@ function buildCharts(sample) {
 
         // 5. Create the layout for the gauge chart.
         var gaugeLayout = {
-            width: 500,
+            width: 460,
             height: 450,
             margin: { t: 0, b: 0 },
             font: { color: "darkblue", family: "Arial" },
